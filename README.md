@@ -29,7 +29,6 @@
 - React
 - Redux - Redux Toolkit
 - Firebase
-  - Google Auth
 - Styled Components
 
 
