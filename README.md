@@ -1,11 +1,11 @@
-# Breakout
+# Updated To Pro
 
-![Breakout Image](https://res.cloudinary.com/dut75albw/image/upload/v1658497912/breakout/banner_my4zzl.png)
+![ Image](https://drive.google.com/file/d/1JAE-BCPZeV2tZcnnXALUSf1MaGiNbIoN/view?usp=sharing)
 
 <div style="disply:flex; align-items: center; justify-content:center; text-align: center">
-  <h2 style="color: #7c66dc; font-size: 40px; font-weight: 700">Burnout?</h2>
-  <h2 style="color: #ba33dc; font-size: 40px; font-weight: 700">Breakout.</h2>
-<p>Social media app for connecting with people of similar intrests</p>
+  <h2 style="color: #7c66dc; font-size: 40px; font-weight: 700">Updated?</h2>
+  <h2 style="color: #ba33dc; font-size: 40px; font-weight: 700">To Pro.</h2>
+<p>Social media app for connecting with people For Free Skills And Courses</p>
 </div>
 
 ---
@@ -32,12 +32,8 @@
   - Google Auth
 - Styled Components
 
-# Screenshots
 
-![Desktop-dark-mode](https://res.cloudinary.com/dut75albw/image/upload/v1658498377/breakout/desktop.png)
-
-<img src="https://res.cloudinary.com/dut75albw/image/upload/v1658498378/breakout/phone.png" width="300" height="1500" alt="mobile light mode">
 
 # Live Link
 
-[https://break--out.vercel.app](https://break--out.vercel.app)
+[https://updatedtopro.web.app/](https://updatedtopro.web.app/)
