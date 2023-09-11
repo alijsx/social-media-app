@@ -4,7 +4,7 @@ import { getStorage } from "firebase/storage";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
- apiKey: "AIzaSyAKo3J4Sp8qMYpkhbWTSDQpbyf6jJbK7Ww",
+  apiKey: "AIzaSyAKo3J4Sp8qMYpkhbWTSDQpbyf6jJbK7Ww",
   authDomain: "for-testing-2baf5.firebaseapp.com",
   databaseURL: "https://for-testing-2baf5-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "for-testing-2baf5",
@@ -13,7 +13,6 @@ const firebaseConfig = {
   appId: "1:652138421847:web:dd798d1095346df020cd12",
   measurementId: "G-Z6B0Q153KL"
 };
-
 const firebaseConfig = {
  
 };
