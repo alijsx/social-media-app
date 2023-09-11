@@ -3,14 +3,16 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getStorage } from "firebase/storage";
 import { getFirestore } from "firebase/firestore";
 
-// const firebaseConfig = {
-//   apiKey: process.env.REACT_APP_FIREBASE_KEY,
-//   authDomain: process.env.REACT_APP_AUTH_DOMAIN,
-//   projectId: process.env.REACT_APP_PROJECT_ID,
-//   storageBucket: process.env.REACT_APP_STORAGE_BUCKET,
-//   messagingSenderId: process.env.REACT_APP_MESSAGING_SENDER_ID,
-//   appId: process.env.REACT_APP_ID,
-// };
+const firebaseConfig = {
+ apiKey: "AIzaSyAKo3J4Sp8qMYpkhbWTSDQpbyf6jJbK7Ww",
+  authDomain: "for-testing-2baf5.firebaseapp.com",
+  databaseURL: "https://for-testing-2baf5-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "for-testing-2baf5",
+  storageBucket: "for-testing-2baf5.appspot.com",
+  messagingSenderId: "652138421847",
+  appId: "1:652138421847:web:dd798d1095346df020cd12",
+  measurementId: "G-Z6B0Q153KL"
+};
 
 const firebaseConfig = {
  
